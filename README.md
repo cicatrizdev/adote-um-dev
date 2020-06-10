@@ -6,7 +6,7 @@ Esse repositório é público, todos terão acesso, mas apenas uma pessoa vai te
 
 Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vamos começar bem light antes de começar a construir os projetos com um framework front-end.
 
-[**Nível 0:**](Level-0/README.md)
+[**Nível 0:**](Nível-0/README.md)
 - Terminal
   - Navegação de diretórios;
   - Criar e modificar arquivos;
@@ -16,15 +16,14 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Instalando extensões;
   - Integração com terminal;
 
-**Nível n00b:**
-- Git
+[**Nível n00b:**](Nível-n00b/)
+- [Git](Nível-n00b/Git/README.md)
   - Instalação e configuração;
   - Introdução com o GitHub;
   - Comandos via terminal;
   - Criando branchs;
   - Criando um merge request;
   - Mantendo o repositório sincronizado;
-  - Alterando commits;
 - HTML
   - Tags;
   - Semântica;
