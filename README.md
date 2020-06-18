@@ -24,7 +24,7 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Criando branchs;
   - Criando um merge request;
   - Mantendo o repositório sincronizado;
-- HTML
+- [HTML](Nível-n00b/HTML/README.md)
   - Tags;
   - Semântica;
   - DOM;
@@ -32,6 +32,10 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Criar uma página em HTML com estrutura semântica e subir para um repositório no GitHub;
   
 **Nível n00b_m4st3r:**
+- HTML
+  - Forms;
+  - Tabelas;
+  - Listas;
 - CSS
   - Box model;
   - Classe, id, elementos;
