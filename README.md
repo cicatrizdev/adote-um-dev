@@ -32,11 +32,7 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Criar uma página em HTML com estrutura semântica e subir para um repositório no GitHub;
   
 **Nível n00b_m4st3r:**
-- HTML
-  - Forms;
-  - Tabelas;
-  - Listas;
-- CSS
+- [CSS](Nível-n00b_m4st3r/CSS/README.md)
   - Box model;
   - Classe, id, elementos;
   - Posicionamento
@@ -71,7 +67,7 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
 
 **DLCs**
 - MongoDB;
-- Postgres;
+- Firebase;
 - Redux;
 - SCSS;
 - styled-components;
