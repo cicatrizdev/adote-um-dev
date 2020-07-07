@@ -36,8 +36,8 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Box model;
   - Classe, id, elementos;
   - Posicionamento
-    - Flex;
-    - Grid;
+    - [Flex](Nível-n00b_m4st3r/CSS/GridFlex/README.md);
+    - [Grid](Nível-n00b_m4st3r/CSS/GridFlex/README.md);
 - JavaScript
   - Tipos e operadores;
   - Condicionais;
@@ -66,7 +66,6 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Portfolio com form de contato;
 
 **DLCs**
-- MongoDB;
 - Firebase;
 - Redux;
 - SCSS;
