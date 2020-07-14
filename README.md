@@ -7,10 +7,10 @@ Esse repositório é público, todos terão acesso, mas apenas uma pessoa vai te
 Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vamos começar bem light antes de começar a construir os projetos com um framework front-end.
 
 [**Nível 0:**](Nível-0/README.md)
-- Terminal
+- [Terminal](Nível-0/README.md)
   - Navegação de diretórios;
   - Criar e modificar arquivos;
-- Ambiente de Desenvolvimento
+- [Ambiente de Desenvolvimento](Nível-0/README.md)
   - Instalando Node;
   - Instalando VSCode;
   - Instalando extensões;
@@ -38,7 +38,7 @@ Esse arquivo vai conter a estrutura de informações que eu desejo passar, e vam
   - Posicionamento
     - [Flex](Nível-n00b_m4st3r/CSS/GridFlex/README.md);
     - [Grid](Nível-n00b_m4st3r/CSS/GridFlex/README.md);
-- JavaScript
+- [JavaScript](Nível-n00b_m4st3r/JavaScript/README.md)
   - Tipos e operadores;
   - Condicionais;
   - Loops;
